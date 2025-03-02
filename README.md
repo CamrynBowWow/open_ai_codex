@@ -6,3 +6,4 @@
 - JavaScript
 - Render
 - Vercel
+- HTML/CSS
