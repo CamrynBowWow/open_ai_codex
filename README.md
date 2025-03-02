@@ -5,3 +5,4 @@
 - Vite
 - JavaScript
 - Render
+- Vercel
